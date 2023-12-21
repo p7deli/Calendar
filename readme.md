@@ -1,3 +1,2 @@
-pip install tkinter<br>
-pip install custom tkinter<br>
+pip install customtkinter<br>
 get run file
